@@ -33,6 +33,7 @@ var sum = 50 + 40;
  {
    console.log('false');}
   
+<<<<<<< HEAD
 var userModel = prompt('please enter your favorite model (jacop or ton or tcharly) ?');
 
 while(userModel !== 'jacop' && userModel !=='ton' && userModel !=='tcharly' ){
@@ -60,3 +61,7 @@ else if(userModel =='tcharly')
 }
 
 }
+=======
+
+
+>>>>>>> 27ca647ec4ee350eb9e3deda45d702a1edb06824
