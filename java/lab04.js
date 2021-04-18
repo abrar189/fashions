@@ -29,10 +29,6 @@ else if(userModel =='tcharly')
 
 
 
-
-  
-
-
 while(userModel !== 'jacop' && userModel !=='ton' && userModel !=='tcharly' ){
   var userModel = prompt('please enter your favorite model (jacop or ton or tcharly) ?');
 }

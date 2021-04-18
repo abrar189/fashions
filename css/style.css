@@ -1,0 +1,28 @@
+header{
+  background-color: rgb(233, 233, 36);
+  
+
+}
+nav ul li { display: inline;
+ 
+    margin: 6px;
+
+}
+
+img{
+  width: 200px;
+  border: 10px solid red;
+}
+a{
+    text-decoration: none;
+
+   text-align: left;
+}
+
+p{
+  background-color: wheat;
+  text-decoration-color: white;
+}
+section{
+  background-color: darkcyan;
+}
