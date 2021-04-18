@@ -27,6 +27,22 @@ else if(userModel =='tcharly')
   document.write(tcharely());
 }
 
+<<<<<<< HEAD
+=======
+
+var sum = 50 + 40;
+ if(sum < 100 )
+  {
+   console.log('true');
+ }
+ else if(sum > 100)
+ {
+   console.log('false');}
+  
+
+var userModel = prompt('please enter your favorite model (jacop or ton or tcharly) ?');
+
+>>>>>>> 6c5b0649651916b522531522b11b8451b10eb6f6
 while(userModel !== 'jacop' && userModel !=='ton' && userModel !=='tcharly' ){
   var userModel = prompt('please enter your favorite model (jacop or ton or tcharly) ?');
 }
@@ -69,6 +85,7 @@ function tcharely(){
 }
 
 
+<<<<<<< HEAD
 
 var sum = 50 + 40;
  if(sum < 100 )
@@ -82,3 +99,5 @@ var sum = 50 + 40;
 
 
 
+=======
+>>>>>>> 6c5b0649651916b522531522b11b8451b10eb6f6
